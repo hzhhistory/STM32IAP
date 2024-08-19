@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "port_dev.h": "c",
+        "delay.h": "c",
+        "stm32f10x.h": "c",
+        "sys.h": "c",
+        "lm3644yffr.h": "c",
+        "stm32f10x_flash.h": "c",
+        "segger_rtt.h": "c"
+    }
+}
