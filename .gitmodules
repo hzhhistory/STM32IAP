@@ -1,3 +1,3 @@
-[submodule "stm32-libs"]
-	path = stm32-libs
-	url = https://gitee.com/aiyangsky/stm32-libs.git
+[submodule "stm32IAP"]
+	path = stm32IAP
+	url = https://gitee.com/aiyangsky/stm32IAP.git

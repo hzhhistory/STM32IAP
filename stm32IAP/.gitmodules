@@ -1,3 +1,0 @@
-[submodule "chiplib"]
-	path = example_build/chiplib
-	url = git@gitee.com:aiyangsky/stm32-libs.git
