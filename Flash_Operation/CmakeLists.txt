@@ -1,0 +1,17 @@
+add_library(Flash)
+
+file(GLOB LIBSRC ${CMAKE_CURRENT_SOURCE_DIR}/*.c)
+
+target_sources(Flash
+    PRIVATE
+    ${LIBSRC}
+)
+target_link_libraries(Flash
+      stm32Libs
+)
+
+target_include_directories(Flash
+    PUBLIC
+    ${CMAKE_CURRENT_SOURCE_DIR}
+)
+
